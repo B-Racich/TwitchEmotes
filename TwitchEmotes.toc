@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: TwitchEmotes
+## Author: Ren - B0NEZ
+## Version: v3.2
+## SavedVariablesPerCharacter: Emoticons_Settings Emoticons_Eyecandy
+
+FilePaths.lua
+
+UIDropDownMenuTemplates.xml
+UIDropDownMenu.lua
+TwitchEmotes.lua
+TwitchEmotes.xml
